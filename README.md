@@ -1,3 +1,3 @@
-# delta-demo
+# demo
 Demo File
 Hello Dude!!
